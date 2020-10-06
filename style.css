@@ -1,0 +1,31 @@
+body{
+    background:url("b.jpg")no-repeat center center/cover;
+    opacity:0.98;
+  }
+  h1{
+    color: white;
+    border: 1px solid rgb(221, 219, 210);
+    display: inline;
+
+  }
+  label{
+    color: white;
+    /* border: 2px solid wheat; */
+    display: inline;
+    font-size: 20px;
+
+  }
+  legend{
+    color: white;
+    /* border: 2px solid wheat; */
+    display: inline;
+    font-size: 20px;
+  }
+  th{
+    color: white;
+    font-size: 20px;
+  }
+  #tab{
+    color: white;
+    font-size: 20px;
+  }
